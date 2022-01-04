@@ -8,6 +8,8 @@ This is example is to show different parts of the Git repository and various com
 
 ## Purpose
 
+As started above, the math purpose is to provide examples for Git training demos.
+
 ## Deployment
 
 ## How To Contribute
