@@ -15,3 +15,6 @@ As started above, the math purpose is to provide examples for Git training demos
 This is a simple web project deployment can be on any web server or even local file system.
 
 ## How To Contribute
+
+## Copyright
+2022 Git.Training
