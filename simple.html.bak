@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <!--
 	Copyright 2022 Git.Training
-	These changes are from the feature
-	branch bigtrouble
+	Some silly changes from master branch
 -->
 <head>
-	<title>A very respect</title>
+	<title>silly changes on master</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
@@ -17,13 +16,13 @@
 </head>
 <body>
 	<main class="container">
-	<!-- Content Goes Here -->
+	<!-- Filter Content -->
 		<p>
-			Just nothin' but trouble.
+			Just stuff for now.
 		</p>
 	</main>
 	<footer class="container">
-		<p>&copy; Git Training 2022</p>
+		<p>&copy; Mattia Gatto 2022</p>
 	</footer>
 </body>
 </html>
